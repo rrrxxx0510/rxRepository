@@ -1,0 +1,347 @@
+.show-img {
+    width: 160px;
+    height: 90px;
+    background: #666;
+}
+
+.col-8.show-text {
+    border-right: 2px solid #f1f1f1;
+}
+
+.row.head {
+    height: 100%;
+}
+
+.col-9>span {
+    display: inline-block;
+    margin-right: 25px;
+    color: #fff;
+    font-size: 13px;
+    width: 50px;
+    height: 30px;
+    background: #0169b0;
+    text-align: center;
+    padding-top: 5px;
+}
+
+span.first {
+    margin-left: 55px;
+    margin-top: 30px;
+}
+
+.read-one {
+    height: 220px;
+    background: #666;
+}
+
+.read-ppt {
+    height: 170px;
+    border: 2px solid #f1f1f1;
+}
+
+.read-two {
+    height: 230px;
+    background: #fff;
+    border: 2px solid #f1f1f1;
+}
+
+.read-radio {
+    height: 170px;
+    border: 2px solid #f1f1f1;
+}
+
+.read-discuss {
+    height: 150px;
+    background: #fff;
+    border: 2px solid #f1f1f1;
+}
+
+.read-txt {
+    height: 150px;
+    border: 2px solid #f1f1f1;
+}
+
+.main {
+    height: 1420px;
+    width: 990px;
+    background: #fff;
+    margin: 0 auto;
+}
+
+body {
+    background-color: black;
+}
+
+header {
+    height: 72px;
+    width: 100%;
+    background: #018ceb;
+    margin-bottom: 18px;
+}
+
+.body {
+    width: 860px;
+    margin-left: 70px;
+}
+
+.row.show-left {
+    height: 170px;
+    border: 2px solid #f1f1f1;
+}
+
+.row.show-right {
+    height: 220px;
+    background: #f4f4f4;
+}
+
+.row.title-left {
+    height: 50px;
+}
+
+.row.title-right {
+    height: 50px;
+}
+
+.row.infor {
+    height: 1060px;
+}
+
+.col-8.left {
+    width: 64%;
+    margin-right: 23px;
+}
+
+
+.row.plays {
+    height: 220px;
+    border: 2px solid #f1f1f1;
+    border-bottom: 4px solid #0091ee;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+
+.row.plays-more {
+    height: 220px;
+    background: #fff;
+    border: 2px solid #f1f1f1;
+}
+
+.col-8.head>span {
+    display: inline-block;
+    margin-right: 40px;
+    background: #0169b0;
+    font-size: 13px;
+    width: 50px;
+    height: 30px;
+    text-align: center;
+    padding: 5px;
+    color: #fff;
+}
+
+span.fa.fa-search {
+    position: absolute;
+    margin-left: -30px;
+    margin-top: 5px;
+    color: #cecece;
+}
+
+span {
+    display: block;
+    width: 100%;
+    word-break: break-all;
+}
+
+input[type="text"] {
+    width: 265px;
+}
+
+span.login {
+    position: relative;
+    margin-left: 190px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-size: 15px;
+    color: #fff;
+}
+
+.ppt-img {
+    width: 160px;
+    height: 90px;
+    background: #666;
+    margin-top: 10px;
+}
+
+span.show-read {
+    margin-top: 40px;
+    font-size: 12px;
+    color: #999999;
+}
+
+span.show-read2 {
+    margin-top: 25px;
+    font-size: 12px;
+    color: #999999;
+}
+
+span.ppt {
+    font-size: 12px;
+    width: 30px;
+    background: #fa793e;
+    height: 18px;
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 5px;
+}
+
+span.ppt-read {
+    font-size: 12px;
+    color: #999999;
+}
+
+.col-4.border-ppt {
+    border-left: 2px solid #f1f1f1;
+    border-right: 2px solid #f1f1f1;
+}
+
+.two-img {
+    background: #666;
+    height: 130px;
+    width: 250px;
+    margin-top: 10px;
+}
+
+span.two-read {
+    color: #999999;
+    margin-top: 35px;
+    font-size: 13px;
+}
+
+span.fa.fa-play-circle-o {
+    position: absolute;
+    margin-top: -30px;
+    margin-left: 5px;
+    color: #fff;
+}
+
+span.discuss-read {
+    font-size: 12px;
+    color: #999999;
+    margin-left: 250px;
+    margin-top: 25px;
+}
+
+span.txt-read {
+    color: #999999;
+    font-size: 12px;
+    margin-left: 430px;
+    margin-top: 30px;
+}
+
+span.right-title {
+    text-align: center;
+}
+
+span.blue {
+    height: 30px;
+    width: 130px;
+    background: #009cff;
+    border-radius: 2px;
+    margin-left: 85px;
+}
+
+.count>span {
+    display: inline;
+    color: #1489d0;
+    margin-inline: 15px; 
+}
+
+.count {
+    text-align: center;
+}
+
+
+.row.title-right>span {
+    display: inline-block;
+}
+
+.title-right>span {
+    display: inline;
+    color: #999999;
+}
+
+
+.one-img {
+    height: 90px;
+    width: 250px;
+    background: #666;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.time>span {
+    display: inline;
+    font-size: 12px;
+}
+
+.row.plays>span {
+    margin-left: 10px;
+    color: #999999;
+}
+
+span.palys-txt {
+    font-size: 20px;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.time {
+    margin-left: 10px;
+    color: #999999;
+    font-size: 12px;
+}
+
+.more-title>span {
+    display: inline;
+}
+
+span.blue-txt {
+    color: #67c1ff;
+}
+
+span.more2 {
+    margin-left: 140px;
+}
+
+.more-img {
+    height: 100px;
+    width: 170px;
+    background: #666;
+    margin-left: 55px;
+}
+
+.plays:after {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #0091ee;
+    width: 100%;
+    content: '即将开始';
+    transform: translate(110px,-170px) rotate(45deg);
+    transform-origin: center;
+    font-size: 16px;
+    color: #fff;
+}
+
+.more-img:after {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: black;
+    width: 100%;
+    content: '第128期';
+    transform: translate(0px,50px) rotate(0deg);
+    transform-origin: center;
+    font-size: 16px;
+    color: #b4b4b4;
+}

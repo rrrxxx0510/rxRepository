@@ -1,0 +1,48 @@
+.data-box{
+    width: 400px;
+    margin: 0 auto;
+    position: relative;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+table {
+    width: 95%;
+    border-collapse: separate;
+    border-spacing: 0 10px;
+    margin-left: 2.5%;
+    margin-bottom: 50px;
+}
+tr{
+    margin-bottom: 10px;
+    width: 100%;
+}
+td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+  }
+td:nth-child(1) {
+    width: 10%;
+}
+
+td:nth-child(2) {
+    width: 70%;
+}
+
+td:nth-child(3) {
+    width: 20%;
+}
+.delete-btn{
+    font-size: 15px;
+    display: block;
+}
+.add-btn{
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    width: 100px;
+    height: 30px;
+    background: #339966;
+}

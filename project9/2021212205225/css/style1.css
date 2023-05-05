@@ -1,0 +1,309 @@
+span.fa.fa-search {
+    position: absolute;
+    margin-top: 18px;
+    color: #fff;
+    margin-left: 10px;
+}
+
+span.down {
+    display: contents;
+    color: #fff;
+    font-size: 25px;
+}
+
+span.fa.fa-angle-down {
+    color: #fff;
+}
+
+input[type="text"] {
+    width: 100%;
+    border: none;
+    background: #00a695;
+    margin-top: 8px;
+    height: 35px;
+}
+
+.infor-4.col-6 {
+    border-right: 1px solid #e0d9ce;
+}
+
+section.row.infor {
+    border-top: 1px solid #e0d9ce;
+    border-bottom: 1px solid #e0d9ce;
+}
+
+section.row.infor>.row>div>div {
+    display: inline-table;
+}
+
+.infor-img {
+    width: 60px;
+    height: 60px;
+    background: #666;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+
+span.title2 {
+    font-size: 20px;
+    color: #ff9c00;
+}
+
+.col-12>.title {
+    font-size: 20px;
+}
+
+
+.adv-4.col-4>.title {
+    color: #00a500;
+    font-size: 20px;
+}
+
+.massage>.title {
+    color: #ff3d00;
+    font-size: 20px;
+}
+
+.adv-6.col-6>.title {
+    color: #ff40a4;
+    font-size: 20px;
+}
+
+.col-6>.title {
+    color: #ff8700;
+    font-size: 20px;
+}
+
+body {
+    background: black;
+}
+
+.list-img {
+    width: 90px;
+    height: 80px;
+    background-color: #666;
+    overflow: hidden;
+    margin-top: 10px;
+}
+
+.list-img:after {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #00c2af;
+    width: 100%;
+    height: 25%;
+    content: '免预约';
+    transform: translate(-25px,-10px) rotate(-45deg);
+    transform-origin: center;
+    font-size: 16px;
+    color: #fff
+}
+
+.main {
+    width: 400px;
+    background: #eee;
+}
+
+.row.title {
+    height: 53px;
+    background: #00c2af;
+}
+
+section.select {
+    height: 180px;
+    margin-bottom: 10px;
+    background: #fff;
+    padding-left: 20px;
+}
+
+section.adv {
+    height: 165px;
+    margin-bottom: 10px;
+}
+
+section.infor {
+    height: 75px;
+    background: #fff;
+    margin-bottom: 10px;
+}
+
+section.list {
+    height: 475px;
+    background: #fff;
+}
+
+section.buttom {
+    height: 40px;
+    background: #8fc6ea;
+}
+
+.row.list-row {
+    height: 108px;
+    border-bottom: 2px solid #e0d9ce;
+    margin-left: 0px;
+}
+
+.col-12>.title {
+    margin-top: 10px;
+    display: block;
+    border-bottom: 2px solid #e0d9ce;
+}
+
+div.buttom {
+    height: 40px;
+    background: #8fc6ea;
+}
+
+.row.first {
+    height: 50%;
+}
+
+.row.second {
+    height: 50%;
+}
+
+.row.adv {
+    height: 165px;
+}
+
+.adv-imglarge {
+    height: 85px;
+    width: 85px;
+    background: #666;
+}
+
+span {
+    display: block;
+}
+
+.col-12>div {
+    display: inline-table;
+}
+
+.adv-imgmid {
+    height: 60px;
+    width: 60px;
+    background: #666;
+    margin-left: 60px;
+}
+
+.adv-imgsmall {
+    height: 35px;
+    width: 35px;
+    background: #666;
+    margin-left: 30px;
+}
+
+.adv-4 {
+    border-right: 1px solid #e0d9ce;
+}
+
+.adv-4 {
+    border-right: 1px soild;
+}
+
+.adv-8 {
+    border-bottom: 1px solid #e0d9ce;
+    margin-top: 10px;
+}
+
+.adv-6 {
+    border-right: 1px solid #e0d9ce;
+}
+
+section.adv {
+    border-bottom: 1px solid #e0d9ce;
+    background: #fff;
+}
+
+.circle {
+    width: 40px;
+    height: 40px;
+    background: #666;
+    margin-top: 10px;
+    border-radius: 50%;
+}
+
+.col-3>span {
+    margin-left: 12px;
+}
+
+.circle-1 {
+    background: #ff8905;
+}
+
+.circle-2 {
+    background: #ff6640;
+}
+
+.circle-3 {
+    background: #7089f6;
+}
+
+.circle-4 {
+    background: #ff8905;
+}
+
+.circle-5 {
+    background: #00cdef;
+}
+
+.circle-6 {
+    background: #ffbc53;
+}
+
+.circle-7 {
+    background: #00cdf0;
+}
+
+.circle-8 {
+    background: #ff8905;
+}
+
+div.money>span {
+    display: inline-block;
+}
+
+span.money {
+    color: #00d1c1;
+    font-size: 25px;
+}
+
+span.yuan {
+    color: #00d1c1;
+}
+
+span.discont {
+    border: 1px solid;
+    font-size: 12px;
+    color: #ff9b00;
+}
+
+span.sale {
+    font-size: 1px;
+    margin-left: 90px;
+}
+
+i.fa.fa-user-o {
+    font-size: 20px;
+    margin-top: 5px;
+    color: #fff;
+}
+
+span.user-down {
+    color: #fff;
+}
+
+span.time>span {
+    display: inline-block;
+}
+
+span.number {
+    width: 18px;
+    height: 18px;
+    background: #666;
+    display: block;
+    color: #fff;
+    font-size: 13px;
+}

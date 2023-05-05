@@ -1,0 +1,125 @@
+/*总体*/
+body {
+    display: block;
+    margin: 0;
+    margin-left: 100px;
+}
+.main {
+    width: 1000px;
+    height:200px;
+    display: table;
+    background: #fff;
+}
+.main>div {
+    height: 500px;
+}
+span {
+    display: block;
+}
+/*区域的分割*/
+.lt {
+    width: 45%;
+    float: left;
+}
+.md {
+    float: left;
+    width: 20%;
+}
+
+.rt {
+    float: left;
+    width: 35%;
+    margin-top: 20px;
+    }
+/*导航栏*/
+.menu-wrap {
+    width: 1000px;
+    border-bottom: 1px solid #ccc;
+    padding: 0 0 10px 0;
+    margin-bottom: 20px;
+    background: #fff;
+    font-size: 10px;
+    color: #757575;
+}
+.menu-wrap>li {
+    list-style: none;
+    display: inline-block;
+    margin-left:25px;
+    font-weight:bold;
+}
+li.\31 {
+    margin-left: 50px;
+    margin-top: 20px;
+}
+/*左边*/
+.menu {
+    color: #757575;
+    font-size: 10px;
+}
+.news {
+    margin-left: 20px;
+}
+
+.news+.news{
+    margin-top:50px
+}
+.title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.desc {
+    color: #757575;
+    font-size: 13px;
+    margin-bottom: 10px;
+}
+
+.auth {
+    font-size: 10px;
+    font-weight: bold;
+    color: #474747;
+}
+.date {
+    font-size: 10px;
+    color: #757575;
+}
+/*中间*/
+.md>img {
+    background-color: #666;
+    width: 200px;
+    height: 110px;
+    display: block;
+}
+.md>img+img {
+    margin-top: 50px;
+}
+
+
+/*右边*/
+.ord {
+    margin-left: 70px;
+    margin-top: 30px;
+}
+span.number {
+    float: left;
+    width: 20%;
+    font-size: 25px;
+    color: #C4C4C4;
+}
+.ord-rt {
+    float: left;
+    width: 80%;
+    margin-bottom: 15px;
+}
+.title.title-s {
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+.title.title-rt {
+    margin-left: 60px;
+    border-bottom: 1px solid #ccc;
+    padding: 15px;
+}
+
+
